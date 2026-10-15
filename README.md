@@ -43,7 +43,8 @@ Pasos de Compilacion y Ejecucion via Terminal
    java ecuaciones_lineales.gauss_seidel.MainGaussSeidel
 
 
-4. Comparativa Tecnica Breve
+
+-4. Comparativa Tecnica Breve
 
 * Método de Jacobi: Utiliza los valores de la iteración previa para calcular simultáneamente todas las componentes del nuevo vector, requiriendo un número mayor de iteraciones para cumplir con la tolerancia establecida.
 * Método de Gauss-Seidel: Emplea de manera inmediata las variables recién calculadas dentro de la misma iteración, reduciendo de forma significativa el número de iteraciones requeridas para converger.
