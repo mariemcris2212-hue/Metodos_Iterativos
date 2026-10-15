@@ -1,6 +1,5 @@
 Practica: Metodos Iterativos (Jacobi y Gauss-Seidel) en Java
 
-Practica de Programacion Modular desarrollada para la materia de Metodos Numericos del Instituto Tecnologico Superior de Xalapa (ITSX).
 
 -1. Descripcion del Proyecto
 El proyecto implementa una arquitectura modular de tres componentes en Java para resolver sistemas de ecuaciones lineales mediante los metodos iterativos de Jacobi y Gauss-Seidel.
